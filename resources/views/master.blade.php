@@ -1,0 +1,1 @@
+<h1>This is master page </h1>
