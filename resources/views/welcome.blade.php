@@ -44,6 +44,8 @@
                 <span>Notes : Stuff </span>
                 <h1>Demo</h1>
                 <p>Release v1.0 </p>
+                <p>new changes</p>
+                <p>fix bug</p>
             </div>
         </div>
     </body>
