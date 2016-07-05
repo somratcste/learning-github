@@ -43,6 +43,7 @@
                 <p>one</p>
                 <span>Notes : Stuff </span>
                 <h1>Demo</h1>
+                <p>Release v1.0 </p>
             </div>
         </div>
     </body>
